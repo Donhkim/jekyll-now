@@ -18,7 +18,11 @@ The easiest way to make your first post is to edit this one. Go into /_posts/ an
 *italic*
 ~~strike thru~~
 _underscore_
-[](http://link.com)
+
+
+[link](http://link.com)
+
+
 > quote
 `tag`
 
