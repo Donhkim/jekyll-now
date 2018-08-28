@@ -7,6 +7,7 @@ permalink: /faqs/
 Frequently Asked Questions
 
 [◆ I cannot add Reminders to-do or project](#a1)
+
 ◆ How do I sync Reminders to-dos from my iPhone to iPad (context, tag, etc.)?
 ◆ Weather information is empty or inaccurate
 ◆ How can I sync iOS calendar with Google calendar?
