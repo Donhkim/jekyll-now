@@ -4,25 +4,25 @@ title: FAQs
 permalink: /faqs/
 ---
 
-Frequently Asked Questions2
+Frequently Asked Questions
 
-[◆ I cannot add Reminders to-do or project](#a1)\
-[◆ How do I sync Reminders to-dos from my iPhone to iPad (context, tag, etc.)?](#a2)\
-[◆ Weather information is empty or inaccurate](#a3)\
-[◆ How can I sync iOS calendar with Google calendar?](#a4)\
-[◆ I don’t see any calendar events in iOS 6](#a5)\
-[◆ How can I sync my to-dos with Toodledo?](#a6)\
-[◆ What is GTD?](#a7)\
-[◆ Does ActionAgenda support sub to-dos or outlining?](#a8)\
-[◆ I am only seeing this month’s events in calendar. What should I do to see all my events?](#a9)\
-[◆ How can I change the name of project, context, or tag?](#a10)\
-[◆ Is there a way to purge completed to-dos?](#a11)
-[◆ I don’t see all repeating to-dos in calendar](#a12)
-[◆ Is there any way to sync to-dos with Outlook?](#a13)\
-[◆ How can I transfer my data from lite to full version?](#a14)\
-[◆ I’d like to see texts in ActionAgenda in my language](#a15)\
-[◆ I have great ideas for ActionAgenda!](#a16)\
-[◆ I have other questions not listed in this FAQs](#a17)
+[◆ I cannot add Reminders to-do or project](#a1)  
+[◆ How do I sync Reminders to-dos from my iPhone to iPad (context, tag, etc.)?](#a2)  
+[◆ Weather information is empty or inaccurate](#a3)  
+[◆ How can I sync iOS calendar with Google calendar?](#a4)  
+[◆ I don’t see any calendar events in iOS 6](#a5)  
+[◆ How can I sync my to-dos with Toodledo?](#a6)  
+[◆ What is GTD?](#a7)  
+[◆ Does ActionAgenda support sub to-dos or outlining?](#a8)  
+[◆ I am only seeing this month’s events in calendar. What should I do to see all my events?](#a9)  
+[◆ How can I change the name of project, context, or tag?](#a10)  
+[◆ Is there a way to purge completed to-dos?](#a11)  
+[◆ I don’t see all repeating to-dos in calendar](#a12)  
+[◆ Is there any way to sync to-dos with Outlook?](#a13)  
+[◆ How can I transfer my data from lite to full version?](#a14)  
+[◆ I’d like to see texts in ActionAgenda in my language](#a15)  
+[◆ I have great ideas for ActionAgenda!](#a16)  
+[◆ I have other questions not listed in this FAQs](#a17)  
 
 -------
 
