@@ -22,7 +22,7 @@ Frequently Asked Questions
 [◆ How can I transfer my data from lite to full version?](#a14)\
 [◆ I’d like to see texts in ActionAgenda in my language](#a15)\
 [◆ I have great ideas for ActionAgenda!](#a16)\
-[◆ I have other questions not listed in this FAQs](#a16)\
+[◆ I have other questions not listed in this FAQs](#a17)
 
 -------
 
