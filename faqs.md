@@ -79,13 +79,13 @@ For more information on GTD, please refer to the following wikipedia page :
 
 **<a name="a8"></a>◆ Does ActionAgenda support sub to-dos or outlining?**
 
-Yes. It supports sub to-dos and to-do outlining in <u>**Project tab**</u>.
+Yes. It supports sub to-dos and to-do outlining in <u><b>Project tab</b></u>.
 
 Little button on the left side of text entry toggles sub to-do entry mode.
 
 Tapping “Edit” in the upper right corner to enter edit mode where you can change order or indent/outdent to-dos.
 
-Sub to-dos and outlining is supported only when to-dos in Project are <u>**sorted manually**</u>, so make sure to check it (using 2nd button on toolbar)
+Sub to-dos and outlining is supported only when to-dos in Project are <u><b>sorted manually</b></u>, so make sure to check it (using 2nd button on toolbar)
 
 ActionAgenda’s to-do outlining works independently from Toodledo sub to-do, so pro account is not needed.
 
@@ -115,6 +115,7 @@ ActionAgenda syncs with Toodledo, and there are tools which can sync Toodledo wi
 or you could export/import to-dos to/from Outlook:
 
 [How do I sync Outlook to my iPhone? (from Toodledo)](http://www.toodledo.com/info/help.php?sel=117) [(direct link)](http://www.toodledo.com/tools/directory.php?expand=5)
+
 [How to Import Tasks from ‘Microsoft Outlook’(from Toodledo)](http://www.toodledo.com/info/help_outlook.php))
 
 **<a name="a14"></a>◆ How can I transfer my data from lite to full version?**
@@ -125,7 +126,7 @@ After full version is installed, open lite version and go to settings and tap �
 
 If you’d like to see the texts in your language,
 1. Please help us by making a translation using “Settings > Language > Get whole translation file” and send email to yourself
-2. After translation is finished, send us email to axagenda+trans@gmail.com
+2. After translation is finished, send us email to [axagenda+trans@gmail.com](mailto:axagenda+trans@gmail.com)
 And please make sure to include your name – we’d like to give credit for your work.
 
 **<a name="a16"></a>◆ I have great ideas for ActionAgenda!**
@@ -134,4 +135,4 @@ If you have great ideas which could improve ActionAgenda, please share those [he
 
 **<a name="a17"></a>◆ I have other questions not listed in this FAQs**
 
-If you have other questions not listed in this FAQs, please email us at axagenda+faqs@gmail.com
+If you have other questions not listed in this FAQs, please email us at [axagenda+faqs@gmail.com](mailto:axagenda+faqs@gmail.com)
