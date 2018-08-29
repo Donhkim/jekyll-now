@@ -29,9 +29,9 @@ Frequently Asked Questions
 **<a name="a1"></a>◆ I cannot add Reminders to-do or project**
 
 > iOS Reminders app(sub system) is not initialized yet.
-> <br>
+> <br><br>
 > Please try the following:
-> <br>
+> <br><br>
 > 1. Enable iCloud reminders in Settings.app -> iCloud -> Reminders toggle to “ON”
 > 2. Open Reminders.app -> add new list
 > 3. Go to Settings.app -> Reminders -> Default list -> change it to new list
