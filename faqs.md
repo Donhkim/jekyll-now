@@ -40,7 +40,7 @@ Frequently Asked Questions
 **<a name="a2"></a>◆ How do I sync Reminders to-dos from my iPhone to iPad (context, tag, etc.)?**
 
 > You can sync extra info such as context, tag, star or manual sorting order like following:
-
+>
 > In your iPhone, ActionAgenda Settings > Sync > Reminders Sync > turn on “Sync extra info”
 > This will make future items’ extra info in sync.
 > 
