@@ -69,7 +69,8 @@ permalink: /faqs/
 
 **<a name="a3"></a>◆ Weather information is empty or inaccurate**
 
-> Weather data is provided by openweathermap.org which is a free service and their coverage and accuracy varies by location.  
+> Weather data is provided by openweathermap.org which is a free service and their coverage and accuracy varies by location.
+>
 > If you are not seeing the weather data, try other nearby city or street address.
 
 **<a name="a4"></a>◆ How can I sync iOS calendar with Google calendar?**
