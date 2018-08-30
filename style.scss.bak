@@ -1,10 +1,6 @@
---- 
---- 
-
-//
+--- --- //
 // IMPORTS
 //
-
 @import "reset";
 @import "variables";
 
@@ -625,22 +621,22 @@ nav {
         padding-left: 40px !important;
       }
       
-      .markdown-body::before {
+      ::before {
         display: table;
         content: "";
       }
       
-      .markdown-body::after {
+      ::after {
         display: table;
         clear: both;
         content: "";
       }
       
-      .markdown-body>*:first-child {
+      >*:first-child {
         margin-top: 0 !important;
       }
       
-      .markdown-body>*:last-child {
+      >*:last-child {
         margin-bottom: 0 !important;
       }
       
