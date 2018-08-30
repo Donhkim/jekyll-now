@@ -1,3 +1,9 @@
+---
+layout: page
+title: Home
+permalink: /home/
+---
+
 When your to-do list gets bigger and complex, you need more than a simple check list.
 You’ll want to organize them so that you know what to do next.
 You’ll want to make a calendar event from it.
