@@ -5,7 +5,6 @@ permalink: /faqs/
 ---
 
 # Frequently Asked Questions
-<br>
 
 [◆ I cannot add Reminders to-do or project](#a1)  
 
