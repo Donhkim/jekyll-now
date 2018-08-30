@@ -4,8 +4,8 @@ title: FAQs
 permalink: /faqs/
 ---
 
-# Frequently Asked Questions 2
-\
+# Frequently Asked Questions
+
 [◆ I cannot add Reminders to-do or project](#a1)  
 
 [◆ How do I sync Reminders to-dos from my iPhone to iPad (context, tag, etc.)?](#a2)  
