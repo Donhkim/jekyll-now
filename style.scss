@@ -325,9 +325,9 @@ nav {
 
   .anchor {
     float: left;
-    padding-right: $spacer-1;
+    // padding-right: $spacer-1;
     margin-left: -20px;
-    line-height: $lh-condensed-ultra;
+    // line-height: $lh-condensed-ultra;
 
     &:focus {
       outline: none;
@@ -342,21 +342,21 @@ nav {
   table,
   pre {
     margin-top: 0;
-    margin-bottom: $spacer-3;
+    // margin-bottom: $spacer-3;
   }
 
   hr {
-    height: $em-spacer-3;
+    // height: $em-spacer-3;
     padding: 0;
-    margin: $spacer-4 0;
-    background-color: $gray-200;
+    // margin: $spacer-4 0;
+    // background-color: $gray-200;
     border: 0;
   }
 
   blockquote {
     padding: 0 1em;
-    color: $gray-500;
-    border-left: 0.25em solid lighten($gray-300, 5%);
+    // color: $gray-500;
+    // border-left: 0.25em solid lighten($gray-300, 5%);
 
     > :first-child {
       margin-top: 0;
