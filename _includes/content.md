@@ -10,6 +10,7 @@ You’ll want to make a calendar event from it.
 You’ll want to overview what’s coming up in real time.ActionAgenda is a hybrid calendar and to-do planner packed with features.
 Calendar syncs with iOS Calendars which syncs with Google, Yahoo, and MS Exchange automatically.
 To-do list syncs with iOS Reminders and Toodledo at the same time.GTD (Getting Things Done) is a proven methodology to free you from stress of managing complex tasks.
+
 ◆ Here’s short how-tos on using GTD with ActionAgenda: 
 
 1. Put whatever comes to your mind in “Inbox”  tab
