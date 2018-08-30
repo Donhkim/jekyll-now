@@ -262,7 +262,7 @@ nav {
 }
 
 .post {
-
+    
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
     line-height: 1.5;
@@ -270,7 +270,7 @@ nav {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     font-size: 16px;
     line-height: 1.5;
-    word-wrap: break-word;
+    word-wrap: break-word;    
 
     .pl-c {
         color: #6a737d;
@@ -622,18 +622,7 @@ nav {
       
       .pl-6 {
         padding-left: 40px !important;
-      }
-      
-      ::before {
-        display: table;
-        content: "";
-      }
-      
-      ::after {
-        display: table;
-        clear: both;
-        content: "";
-      }
+      }            
       
       >*:first-child {
         margin-top: 0 !important;
