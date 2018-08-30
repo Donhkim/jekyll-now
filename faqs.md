@@ -4,7 +4,7 @@ title: FAQs
 permalink: /faqs/
 ---
 
-# Frequently Asked Questions2
+# Frequently Asked Questions
 
 [◆ I cannot add Reminders to-do or project](#a1)  
 
